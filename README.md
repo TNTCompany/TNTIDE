@@ -8,3 +8,5 @@ Because the software contains MinGW64, so it's large. You'd better download it b
 Baidu Netdisk: https://pan.baidu.com/s/13gainvqX6-_iVmd4lR3QNg
 
 Tencent Weiyun: https://share.weiyun.com/53oxk7t
+
+*Built by Visual Basic 6.0
