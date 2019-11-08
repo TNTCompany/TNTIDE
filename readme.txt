@@ -1,1 +1,0 @@
-Please copy the MinGW64 to this path.
