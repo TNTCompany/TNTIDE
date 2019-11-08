@@ -1,0 +1,20 @@
+#include <cstdio>
+#include <iostream>
+#include <algorithm>
+#include <cstring>
+#include <cmath>
+#include <map>
+#include <vector>
+#include <queue>
+#include <deque>
+#include <stack>
+#include <set>
+#include <cstdlib>
+#include <list>
+using namespace std;
+
+int main()
+{
+	return 0;
+}
+
