@@ -1,0 +1,9 @@
+#include <bits/stdc++.h>
+using namespace std;
+inline int read();
+
+int main()
+{
+	return 0;
+}
+
